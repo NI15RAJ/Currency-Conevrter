@@ -6,9 +6,8 @@ A simple, responsive web app that allows users to convert one currency to anothe
 
 ## 🔗 Live Demo
 
-[👉 Click to try it live](https://ni15raj.github.io/currency-converter)
+[👉 Click to try it live](https://ni15raj.github.io/Currency-Conevrter/)
 
-> _(Replace with your actual GitHub Pages URL if hosted)_
 
 ---
 
@@ -38,5 +37,5 @@ A simple, responsive web app that allows users to convert one currency to anothe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
-   cd currency-converter
+   git clone https://github.com/ni15raj/Currency-Converter.git
+   cd Currency-Converter
